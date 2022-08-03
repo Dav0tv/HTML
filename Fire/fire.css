@@ -1,0 +1,14 @@
+#RFS{
+ width: 200px;
+ height: 200px;
+ float: right;
+}
+
+#our {
+  position: absolute; left: 200px; top: -0px;
+
+}
+
+#what {
+  position: absolute; left: 430px; top: -0px;
+}
